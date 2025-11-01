@@ -68,7 +68,7 @@ Before starting, ensure you have:
 1. Visit [**Gallabox.com**](https://www.gallabox.com/)
 2. Click **"Start Free Trial"** or **"Sign Up"**
 3. Fill in your details:
-   - Business Name: `Sotheby's International Realty`
+   - Business Name: `Your business name`
    - Email: `your-email@company.com`
    - Phone: Your business number
    - Industry: `Real Estate`
