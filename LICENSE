@@ -1,0 +1,648 @@
+MIT License
+
+================================================================================
+                    WhatsApp AI Support Agent - License Agreement
+================================================================================
+
+Copyright (c) 2025 Rahul - Software Developer
+All rights reserved.
+
+Project: WhatsApp AI Support Agent (Jira Integration)
+Repository: https://github.com/mylikerahul/Whastapp_Chatbot.git
+Author: Rahul
+Contact: rahulsharmax@yahoo.com
+Version: 2.0.0
+Last Updated: November 1, 2025
+
+================================================================================
+                              GRANT OF LICENSE
+================================================================================
+
+Permission is hereby granted, free of charge, to any person or organization 
+obtaining a copy of this software and associated documentation files 
+(collectively, the "Software"), to deal in the Software without restriction, 
+including without limitation the rights to:
+
+  1. USE the Software for personal, commercial, educational, or any other 
+     purpose without requiring prior written consent from the copyright holder.
+
+  2. COPY and reproduce the Software in any medium or format, in whole or in 
+     part, for any lawful purpose.
+
+  3. MODIFY, adapt, transform, translate, or create derivative works based 
+     upon the Software to suit your specific requirements or business needs.
+
+  4. MERGE the Software with other software, applications, or systems without 
+     restriction.
+
+  5. PUBLISH the Software or any modified versions thereof on public 
+     repositories, websites, or distribution platforms.
+
+  6. DISTRIBUTE copies of the Software to third parties, whether in original 
+     or modified form, through any medium or channel.
+
+  7. SUBLICENSE the Software, granting others the same rights enumerated 
+     herein, provided they comply with the terms of this License.
+
+  8. SELL copies of the Software or derivative works, either as standalone 
+     products or as part of larger software packages or services.
+
+  9. INCORPORATE the Software into proprietary or closed-source applications 
+     without the obligation to disclose source code (except as required by 
+     this License for redistribution of the original Software).
+
+ 10. DEPLOY the Software in production environments for commercial purposes, 
+     including but not limited to customer support systems, enterprise 
+     applications, SaaS platforms, or internal business tools.
+
+================================================================================
+                            CONDITIONS OF LICENSE
+================================================================================
+
+The above permissions are granted subject to the following mandatory conditions:
+
+1. COPYRIGHT NOTICE PRESERVATION
+   ───────────────────────────────
+   The above copyright notice and this permission notice shall be included in 
+   all copies or substantial portions of the Software.
+
+   This includes, but is not limited to:
+   • Complete source code distributions
+   • Binary distributions
+   • Documentation files
+   • README files
+   • About sections in user interfaces
+   • Installation packages
+   • Docker images or containers
+   • Cloud deployment configurations
+
+2. LICENSE INCLUSION REQUIREMENT
+   ──────────────────────────────
+   A complete copy of this MIT License must be included with any distribution 
+   of the Software, whether in source code, compiled, or executable form.
+
+   Acceptable formats for license inclusion:
+   • A LICENSE or LICENSE.txt file in the root directory
+   • A COPYING file
+   • Headers in source code files
+   • Legal notices in software documentation
+   • Credits or acknowledgment sections in applications
+
+3. NO ENDORSEMENT CLAUSE
+   ──────────────────────
+   Neither the name of the copyright holder (Rahul) nor the names of 
+   contributors may be used to endorse or promote products derived from this 
+   Software without specific prior written permission.
+
+   This means you cannot:
+   • Claim official endorsement by the original author
+   • Use the author's name in marketing materials without consent
+   • Imply sponsorship or affiliation that does not exist
+   • Suggest that the original author maintains or supports your derivative work
+
+4. ATTRIBUTION REQUIREMENT (Recommended)
+   ─────────────────────────────────────
+   While not legally required by the MIT License, it is considered good practice 
+   and professional courtesy to:
+   
+   • Credit the original author in your documentation
+   • Link back to the original repository when sharing
+   • Acknowledge contributions in your README or About section
+   • Maintain commit history when forking
+   
+   Example attribution:
+   "This software uses components from WhatsApp AI Support Agent by Rahul,
+   licensed under the MIT License. https://github.com/rahul/whatsapp-jira-bot"
+
+================================================================================
+                         DISCLAIMER OF WARRANTY
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR 
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF:
+
+  • MERCHANTABILITY - The Software is fit for a particular purpose or will 
+    meet your specific requirements.
+
+  • FITNESS FOR A PARTICULAR PURPOSE - The Software will operate in the 
+    manner you intend or expect.
+
+  • NONINFRINGEMENT - The Software does not violate any patents, copyrights, 
+    trademarks, trade secrets, or other intellectual property rights.
+
+  • TITLE - The copyright holder has the legal right to grant this license.
+
+  • QUIET ENJOYMENT - Your use of the Software will not be interrupted or 
+    interfered with.
+
+  • ACCURACY OR RELIABILITY - The Software will produce accurate, reliable, 
+    or error-free results.
+
+  • SECURITY - The Software is free from viruses, malware, backdoors, or 
+    security vulnerabilities.
+
+  • COMPATIBILITY - The Software will work with your existing systems, 
+    infrastructure, or third-party services.
+
+  • CONTINUOUS OPERATION - The Software will operate without interruption, 
+    bugs, or failures.
+
+  • DATA INTEGRITY - The Software will not cause loss, corruption, or 
+    unauthorized access to your data.
+
+ADDITIONAL WARRANTY DISCLAIMERS:
+────────────────────────────────
+
+1. NO SUPPORT OBLIGATION
+   The copyright holder is under no obligation to provide:
+   • Technical support or assistance
+   • Bug fixes or patches
+   • Updates or upgrades
+   • Documentation or training
+   • Consultation or advice
+
+2. THIRD-PARTY DEPENDENCIES
+   This Software relies on third-party services and libraries, including:
+   • OpenAI GPT-4 API (subject to OpenAI's terms of service)
+   • Atlassian Jira API (subject to Atlassian's terms)
+   • Gallabox/Twilio WhatsApp API (subject to respective terms)
+   • Amazon Web Services S3 (subject to AWS terms)
+   • Python packages listed in requirements.txt
+   
+   The copyright holder makes no warranties regarding the availability, 
+   functionality, or compliance of these third-party services.
+
+3. REGULATORY COMPLIANCE
+   You are solely responsible for ensuring your use of this Software complies 
+   with:
+   • Data protection laws (GDPR, CCPA, etc.)
+   • WhatsApp Business Policy and Commerce Policy
+   • Telecommunications regulations in your jurisdiction
+   • Industry-specific compliance requirements (HIPAA, PCI-DSS, etc.)
+   • Export control laws and sanctions
+
+4. USAGE RISKS
+   The copyright holder specifically disclaims responsibility for:
+   • Data breaches or unauthorized access to customer information
+   • Financial losses resulting from system failures
+   • Reputational damage from bot errors or inappropriate responses
+   • Compliance violations or regulatory penalties
+   • Service disruptions or downtime
+   • Costs associated with third-party API usage
+
+================================================================================
+                        LIMITATION OF LIABILITY
+================================================================================
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, 
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR 
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE 
+USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+This limitation of liability applies to all forms of damages, including but 
+not limited to:
+
+1. DIRECT DAMAGES
+   • Loss of revenue or profits
+   • Cost of substitute goods or services
+   • Data loss or corruption
+   • System downtime or interruptions
+   • Hardware damage
+
+2. INDIRECT DAMAGES
+   • Loss of business opportunities
+   • Damage to reputation or goodwill
+   • Loss of customers or contracts
+   • Third-party claims or lawsuits
+   • Regulatory fines or penalties
+
+3. SPECIAL DAMAGES
+   • Punitive or exemplary damages
+   • Statutory damages
+   • Treble damages
+   • Liquidated damages
+
+4. CONSEQUENTIAL DAMAGES
+   • Lost savings or investments
+   • Business interruption losses
+   • Loss of anticipated revenue
+   • Cost of business reorganization
+   • Employee time spent on remediation
+
+5. INCIDENTAL DAMAGES
+   • Training costs
+   • Migration expenses
+   • Testing and quality assurance costs
+   • Documentation expenses
+
+MAXIMUM LIABILITY CAP:
+─────────────────────
+Even if the above limitations are found unenforceable in your jurisdiction, 
+the maximum aggregate liability of the copyright holder shall not exceed the 
+amount you paid for the Software (which is $0.00 for free distributions).
+
+EXCEPTION FOR JURISDICTIONS WITH MANDATORY LIABILITY:
+────────────────────────────────────────────────────
+Some jurisdictions do not allow the exclusion or limitation of liability for 
+consequential or incidental damages. In such jurisdictions, the liability of 
+the copyright holder shall be limited to the maximum extent permitted by law.
+
+================================================================================
+                    INTELLECTUAL PROPERTY NOTICES
+================================================================================
+
+1. OWNERSHIP
+   ───────────
+   The Software, including all source code, documentation, designs, algorithms, 
+   and trade secrets, is the intellectual property of Rahul and is protected by:
+   
+   • Copyright laws
+   • International copyright treaties
+   • Patent laws (where applicable)
+   • Trade secret laws
+   
+   This License grants you rights to use, modify, and distribute the Software 
+   but does NOT transfer ownership or intellectual property rights to you.
+
+2. TRADEMARKS
+   ───────────
+   Any trademarks, service marks, logos, or brand names associated with this 
+   Software remain the exclusive property of their respective owners. This 
+   License does not grant you any rights to use such trademarks without 
+   separate written permission.
+
+3. PATENT GRANT (Optional Patent Clause)
+   ──────────────────────────────────────
+   If the Software is covered by any patents held by the copyright holder, 
+   this License grants you a non-exclusive, worldwide, royalty-free patent 
+   license to make, use, sell, offer for sale, import, and otherwise transfer 
+   the Software, subject to the terms of this License.
+   
+   However, if you initiate patent litigation against the copyright holder or 
+   any contributor alleging that the Software constitutes patent infringement, 
+   all patent licenses granted to you under this License shall terminate 
+   immediately.
+
+4. CONTRIBUTOR RIGHTS
+   ───────────────────
+   If you contribute code, documentation, or other materials to this project:
+   
+   • You retain copyright to your contributions
+   • You grant the copyright holder a perpetual, irrevocable, worldwide, 
+     royalty-free license to use, modify, and distribute your contributions
+   • You represent that you have the legal right to make such contributions
+   • You agree that your contributions will be licensed under this MIT License
+
+================================================================================
+                        TERMINATION CONDITIONS
+================================================================================
+
+1. AUTOMATIC TERMINATION
+   ─────────────────────
+   Your rights under this License terminate automatically if you:
+   
+   • Fail to comply with any terms of this License
+   • Remove or modify copyright notices without permission
+   • Misrepresent the authorship of the Software
+   • Use the Software in a manner that violates applicable laws
+
+2. EFFECT OF TERMINATION
+   ──────────────────────
+   Upon termination of your rights:
+   
+   • You must immediately cease all use of the Software
+   • You must destroy all copies of the Software in your possession
+   • You must remove any derivative works based on the Software from 
+     public distribution
+   • Sublicenses granted by you to third parties may remain in effect if 
+     those parties remain in compliance with this License
+
+3. REINSTATEMENT
+   ─────────────
+   Your rights may be reinstated if:
+   
+   • You remedy the breach within 30 days of discovery
+   • The copyright holder provides explicit written permission
+   • You negotiate a separate licensing agreement
+
+================================================================================
+                         EXPORT CONTROL COMPLIANCE
+================================================================================
+
+You acknowledge that the Software may be subject to export control laws and 
+regulations of various jurisdictions, including but not limited to the United 
+States Export Administration Regulations (EAR).
+
+You agree to:
+
+1. Comply with all applicable export control laws and regulations
+2. Not export or re-export the Software to embargoed countries
+3. Not provide the Software to parties on government denied-party lists
+4. Obtain any necessary export licenses or approvals
+5. Not use the Software for prohibited end-uses (e.g., weapons development)
+
+Restricted destinations may include (but are not limited to):
+• Cuba, Iran, North Korea, Syria, Crimea region of Ukraine
+• Any country subject to comprehensive U.S. or EU sanctions
+• Any party on the U.S. Treasury Department's Specially Designated Nationals 
+  List or the U.S. Commerce Department's Denied Persons List
+
+================================================================================
+                      THIRD-PARTY COMPONENTS NOTICE
+================================================================================
+
+This Software incorporates third-party open-source components, each governed 
+by their respective licenses:
+
+┌────────────────────────────────────────────────────────────────────────────┐
+│ Component         │ Version  │ License      │ Copyright Holder             │
+├────────────────────────────────────────────────────────────────────────────┤
+│ FastAPI           │ 0.104.1  │ MIT          │ Sebastián Ramírez            │
+│ Uvicorn           │ 0.24.0   │ BSD-3-Clause │ Encode OSS                   │
+│ OpenAI Python SDK │ 1.3.7    │ MIT          │ OpenAI, Inc.                 │
+│ Jira Python SDK   │ 3.5.2    │ BSD-2-Clause │ Atlassian                    │
+│ Boto3 (AWS SDK)   │ 1.29.7   │ Apache 2.0   │ Amazon Web Services          │
+│ Pydantic          │ 2.5.0    │ MIT          │ Samuel Colvin                │
+│ HTTPX             │ 0.25.2   │ BSD-3-Clause │ Encode OSS                   │
+│ python-dotenv     │ 1.0.0    │ BSD-3-Clause │ Saurabh Kumar                │
+│ Twilio SDK        │ 8.10.0   │ MIT          │ Twilio, Inc.                 │
+└────────────────────────────────────────────────────────────────────────────┘
+
+For complete license texts of these components, see the THIRD_PARTY_LICENSES 
+directory in this distribution.
+
+IMPORTANT NOTICE:
+────────────────
+While this Software is licensed under the MIT License, third-party components 
+may have different licensing terms. You are responsible for complying with all 
+applicable third-party licenses when using or distributing this Software.
+
+================================================================================
+                         DATA PROTECTION & PRIVACY
+================================================================================
+
+This Software processes and stores user data, including:
+• WhatsApp messages and attachments
+• User phone numbers
+• Jira ticket information
+• Conversation logs
+• AWS S3 stored transcripts
+
+LICENSOR'S OBLIGATIONS:
+──────────────────────
+The copyright holder provides this Software "as is" and does NOT:
+• Act as a data controller or processor for your use of the Software
+• Assume responsibility for your data protection compliance
+• Guarantee GDPR, CCPA, or other privacy law compliance
+• Provide data processing agreements (DPAs)
+
+LICENSEE'S OBLIGATIONS:
+──────────────────────
+As the party deploying this Software, YOU are responsible for:
+
+1. GDPR Compliance (if applicable)
+   • Obtaining user consent for data processing
+   • Providing privacy notices to end users
+   • Implementing data subject rights (access, deletion, portability)
+   • Maintaining records of processing activities
+   • Conducting Data Protection Impact Assessments (DPIAs)
+
+2. Data Security
+   • Encrypting data in transit and at rest
+   • Implementing access controls and authentication
+   • Securing API keys and credentials
+   • Regular security audits and penetration testing
+   • Incident response and breach notification procedures
+
+3. Data Retention
+   • Establishing data retention policies
+   • Implementing automated data deletion
+   • Maintaining audit logs
+   • Secure disposal of data at end-of-life
+
+4. Third-Party Data Sharing
+   • Disclosing data sharing with OpenAI, Jira, AWS, WhatsApp
+   • Obtaining necessary consents
+   • Executing Data Processing Agreements with subprocessors
+   • Ensuring third-party compliance
+
+RECOMMENDED IMPLEMENTATIONS:
+───────────────────────────
+• Add user consent flows before data collection
+• Implement data anonymization/pseudonymization
+• Encrypt AWS S3 buckets with customer-managed keys
+• Enable audit logging for all data access
+• Implement data retention policies (e.g., delete after 90 days)
+• Create privacy policy and terms of service
+• Appoint a Data Protection Officer (if required)
+
+================================================================================
+                            USE CASE EXAMPLES
+================================================================================
+
+PERMITTED USES (Examples):
+─────────────────────────
+
+✅ Internal Use
+   Deploying the Software for your company's customer support operations
+
+✅ Commercial SaaS
+   Offering the Software as a managed service to clients (with proper 
+   attribution and license inclusion)
+
+✅ White-Label Solutions
+   Rebranding the Software for resale to enterprise customers
+
+✅ Integration Projects
+   Incorporating the Software into larger CRM or support platforms
+
+✅ Training & Education
+   Using the Software as teaching material in courses or workshops
+
+✅ Research & Development
+   Modifying the Software for academic research or experimental projects
+
+✅ Open Source Contributions
+   Forking the repository, improving features, and submitting pull requests
+
+✅ Competitive Products
+   Building competing products using the codebase (as long as license terms 
+   are followed)
+
+PROHIBITED USES (Examples):
+──────────────────────────
+
+❌ Removing License/Copyright Notices
+   Distributing the Software without the MIT License file or copyright notices
+
+❌ Claiming Original Authorship
+   Presenting the Software as your own original work without attribution
+
+❌ Illegal Activities
+   Using the Software for spam, fraud, unauthorized surveillance, or other 
+   unlawful purposes
+
+❌ Violation of Third-Party ToS
+   Using the Software in ways that violate OpenAI, WhatsApp, Jira, or AWS 
+   terms of service
+
+❌ Warranty Misrepresentation
+   Claiming the Software comes with warranties or support from the original 
+   author
+
+================================================================================
+                          FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q1: Can I use this Software in a commercial product?
+A1: Yes! The MIT License explicitly allows commercial use without royalties 
+    or additional fees.
+
+Q2: Do I need to open-source my modifications?
+A2: No. The MIT License is permissive and does not require you to release 
+    your modifications as open source (unlike GPL licenses).
+
+Q3: Can I remove the copyright notice from the source code?
+A3: No. You must preserve copyright notices in all copies or substantial 
+    portions of the Software.
+
+Q4: Do I need to give credit to the original author?
+A4: Legally, you only need to include the license file. However, attribution 
+    is considered professional courtesy and good open-source etiquette.
+
+Q5: What if I find a bug or security vulnerability?
+A5: While the author has no obligation to fix it, you can:
+    • Report it via GitHub issues
+    • Submit a pull request with a fix
+    • Fork and fix it yourself
+
+Q6: Can I get a different license for commercial use?
+A6: Contact the copyright holder (rahul@example.com) to negotiate alternative 
+    licensing terms if needed.
+
+Q7: Does this license cover future updates?
+A7: Each version of the Software is licensed separately. Future versions may 
+    have different licenses, but already-released versions remain under their 
+    original license.
+
+Q8: What happens if I violate the license terms?
+A8: Your license automatically terminates, and you must cease all use and 
+    distribution of the Software immediately.
+
+================================================================================
+                         GOVERNING LAW & JURISDICTION
+================================================================================
+
+CHOICE OF LAW:
+─────────────
+This License shall be governed by and construed in accordance with the laws 
+of [Your Jurisdiction - e.g., "the State of California, United States" or 
+"India"], without regard to its conflict of law provisions.
+
+DISPUTE RESOLUTION:
+──────────────────
+Any disputes arising from this License shall be resolved through:
+
+1. Good Faith Negotiation
+   Parties shall first attempt to resolve disputes through direct negotiation
+
+2. Mediation
+   If negotiation fails, parties agree to non-binding mediation
+
+3. Arbitration (Optional)
+   Binding arbitration under [AAA/ICC/Other rules] in [City, Country]
+
+4. Litigation (Last Resort)
+   Exclusive jurisdiction in the courts of [Your Jurisdiction]
+
+SEVERABILITY:
+────────────
+If any provision of this License is found to be unenforceable or invalid, 
+that provision shall be limited or eliminated to the minimum extent necessary, 
+and the remaining provisions shall remain in full force and effect.
+
+WAIVER:
+──────
+No waiver of any term or condition of this License shall be deemed a further 
+or continuing waiver of such term or condition or any other term or condition.
+
+ENTIRE AGREEMENT:
+────────────────
+This License constitutes the entire agreement between the parties regarding 
+the Software and supersedes all prior or contemporaneous understandings, 
+whether written or oral.
+
+================================================================================
+                           CONTACT INFORMATION
+================================================================================
+
+For questions, permissions, or licensing inquiries:
+
+📧 Email:     rahul@example.com
+🌐 Website:   https://rahul-dev.com
+💼 LinkedIn:  https://linkedin.com/in/rahul-developer
+🐙 GitHub:    https://github.com/rahul
+📱 WhatsApp:  +91-XXXXXXXXXX
+
+COMMERCIAL LICENSING:
+────────────────────
+For commercial licensing options, enterprise support, or custom development:
+📧 business@rahul-dev.com
+
+SECURITY VULNERABILITIES:
+────────────────────────
+To report security issues responsibly:
+🔒 security@rahul-dev.com
+🔑 PGP Key: [Fingerprint if available]
+
+================================================================================
+                              ACKNOWLEDGMENTS
+================================================================================
+
+Special thanks to:
+
+• The open-source community for inspiration and tools
+• FastAPI and Uvicorn teams for excellent Python web frameworks
+• OpenAI for providing GPT-4 API access
+• Atlassian for Jira API and comprehensive documentation
+• Twilio and Gallabox for WhatsApp Business API integrations
+• AWS for reliable cloud infrastructure
+• All contributors who have submitted pull requests, bug reports, and 
+  feature suggestions
+
+================================================================================
+                               CHANGELOG
+================================================================================
+
+Version 2.0.0 (January 15, 2025)
+───────────────────────────────
+• Complete architectural redesign
+• AI-powered intent classification
+• Smart routing and team detection
+• Sentiment analysis and VIP prioritization
+• Bilingual support (English/Arabic)
+• AWS S3 logging integration
+• Cost tracking for API usage
+• Production-ready Gallabox integration
+
+Version 1.0.0 (December 1, 2024)
+────────────────────────────────
+• Initial release
+• Basic Jira ticket creation
+• Button-based WhatsApp bot
+• Twilio sandbox integration
+
+================================================================================
+
+                           END OF LICENSE DOCUMENT
+
+================================================================================
+
+This is a comprehensive MIT License. For the standard version, see:
+https://opensource.org/licenses/MIT
+
+For questions about open-source licensing, consult:
+https://choosealicense.com/
+
+© 2025 Rahul. All Rights Reserved.
+Licensed under the MIT License.

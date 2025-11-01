@@ -1,0 +1,180 @@
+{
+  "timestamp": "2025-11-01T10:45:45.552460",
+  "duration_seconds": 48.909883,
+  "summary": {
+    "passed": 23,
+    "failed": 1,
+    "warnings": 4,
+    "total": 28
+  },
+  "tests": [
+    {
+      "name": "Server is running",
+      "status": "PASS",
+      "details": "Status: healthy",
+      "timestamp": "2025-11-01T10:44:58.273020"
+    },
+    {
+      "name": "Mock Mode",
+      "status": "PASS",
+      "details": "Service: MockGallaboxService",
+      "timestamp": "2025-11-01T10:44:59.283065"
+    },
+    {
+      "name": "Jira Integration",
+      "status": "WARN",
+      "details": "Host: https://mylikerahul.atlassian.net",
+      "timestamp": "2025-11-01T10:44:59.288598"
+    },
+    {
+      "name": "OpenAI Integration",
+      "status": "PASS",
+      "details": "Model: gpt-4o-mini",
+      "timestamp": "2025-11-01T10:44:59.288791"
+    },
+    {
+      "name": "Gallabox Integration",
+      "status": "PASS",
+      "details": "Number: +971547252065",
+      "timestamp": "2025-11-01T10:44:59.288965"
+    },
+    {
+      "name": "Service debug endpoint",
+      "status": "FAIL",
+      "details": "HTTP 404",
+      "timestamp": "2025-11-01T10:45:00.294168"
+    },
+    {
+      "name": "Create ticket intent",
+      "status": "PASS",
+      "details": "Message: 'Salesforce is broken...'",
+      "timestamp": "2025-11-01T10:45:01.355120"
+    },
+    {
+      "name": "Check status intent",
+      "status": "PASS",
+      "details": "Message: 'What's the status of SUP-123?...'",
+      "timestamp": "2025-11-01T10:45:04.353390"
+    },
+    {
+      "name": "Property inquiry redirect",
+      "status": "PASS",
+      "details": "Message: 'I want to buy a villa...'",
+      "timestamp": "2025-11-01T10:45:07.415517"
+    },
+    {
+      "name": "Clear messages",
+      "status": "PASS",
+      "details": "Message store cleared",
+      "timestamp": "2025-11-01T10:45:10.545617"
+    },
+    {
+      "name": "Initial state",
+      "status": "PASS",
+      "details": "Store is empty",
+      "timestamp": "2025-11-01T10:45:10.562158"
+    },
+    {
+      "name": "Message storage",
+      "status": "PASS",
+      "details": "1 new messages stored",
+      "timestamp": "2025-11-01T10:45:13.600585"
+    },
+    {
+      "name": "Message content",
+      "status": "PASS",
+      "details": "Content: \ud83d\udcdd **Updated Ticket Preview**\n\n**Summary:** Summary...",
+      "timestamp": "2025-11-01T10:45:13.609112"
+    },
+    {
+      "name": "Step 1: Report issue",
+      "status": "INFO",
+      "details": "Sending: 'API is broken, urgent!'",
+      "timestamp": "2025-11-01T10:45:14.688758"
+    },
+    {
+      "name": "Ticket preview generated",
+      "status": "PASS",
+      "details": "Preview message sent",
+      "timestamp": "2025-11-01T10:45:17.737580"
+    },
+    {
+      "name": "Step 2: Confirm ticket",
+      "status": "INFO",
+      "details": "Sending: 'yes'",
+      "timestamp": "2025-11-01T10:45:17.742629"
+    },
+    {
+      "name": "Ticket creation",
+      "status": "WARN",
+      "details": "Creation unclear",
+      "timestamp": "2025-11-01T10:45:20.795129"
+    },
+    {
+      "name": "Team detection: Salesforce Team",
+      "status": "PASS",
+      "details": "Message: 'Salesforce is not syncing...'",
+      "timestamp": "2025-11-01T10:45:21.874230"
+    },
+    {
+      "name": "Team detection: Development Team",
+      "status": "PASS",
+      "details": "Message: 'API endpoint is failing...'",
+      "timestamp": "2025-11-01T10:45:24.877992"
+    },
+    {
+      "name": "Team detection: Data Team",
+      "status": "PASS",
+      "details": "Message: 'Dashboard report is wrong...'",
+      "timestamp": "2025-11-01T10:45:27.990983"
+    },
+    {
+      "name": "Team detection: Admin Team",
+      "status": "PASS",
+      "details": "Message: 'Need access to system...'",
+      "timestamp": "2025-11-01T10:45:30.997217"
+    },
+    {
+      "name": "Property query handling",
+      "status": "PASS",
+      "details": "Query: 'I want to buy a villa...'",
+      "timestamp": "2025-11-01T10:45:34.083683"
+    },
+    {
+      "name": "Property query handling",
+      "status": "PASS",
+      "details": "Query: 'Looking for 3 bedroom apartment in Marin...'",
+      "timestamp": "2025-11-01T10:45:37.169671"
+    },
+    {
+      "name": "Property query handling",
+      "status": "PASS",
+      "details": "Query: 'What's the price of penthouses in Palm?...'",
+      "timestamp": "2025-11-01T10:45:40.209317"
+    },
+    {
+      "name": "Handle: Empty message",
+      "status": "PASS",
+      "details": "Error handled gracefully",
+      "timestamp": "2025-11-01T10:45:43.418426"
+    },
+    {
+      "name": "Handle: Missing phone",
+      "status": "PASS",
+      "details": "Error handled gracefully",
+      "timestamp": "2025-11-01T10:45:44.482706"
+    },
+    {
+      "name": "Real-time analytics",
+      "status": "PASS",
+      "details": "Status: 2025-11-01T10:45:45.485678",
+      "timestamp": "2025-11-01T10:45:45.499718"
+    },
+    {
+      "name": "Cost tracking",
+      "status": "PASS",
+      "details": "Total cost: $0.0008",
+      "timestamp": "2025-11-01T10:45:45.515654"
+    }
+  ]
+}

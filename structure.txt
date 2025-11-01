@@ -1,0 +1,48 @@
+whatsapp-bot/
+├── main.py                         # 🚀 FastAPI entry point
+├── requirements.txt                # 📦 Dependencies list
+├── .env                            # 🔐 Environment secrets (not in Git)
+│
+├── config/                         # ⚙️ Global settings & constants
+│   └── settings.py                 # ✅ App configuration loader
+│
+├── services/                       # 🤖 AI + Business Logic Engines
+│   ├── __init__.py
+│   │
+│   ├── gallabox_service.py         # 💬 WhatsApp messaging via Gallabox
+│   ├── twilio_service.py           # 📱 Twilio Sandbox support (testing)
+│   │
+│   ├── intent_service.py           # 🧠 AI-based intent classification
+│   ├── smart_routing.py            # 🎯 Route to right department
+│   ├── jira_service.py             # 📝 Jira ticket automation
+│   ├── project_matcher.py          # 🗂️ Auto project selection (SUP, IT, etc.)
+│   │
+│   ├── sentiment_service.py        # 😟 Detect frustration & emotion escalation
+│   ├── vip_detection.py            # 👑 Priority boost for VIP clients
+│   ├── team_detection.py           # 🧩 Assign expert team automatically
+│   │
+│   ├── conversation_memory.py      # 🧠 Session tracking & personalization
+│   ├── response_service.py         # ✍️ AI smart replies (auto-response engine)
+│   │
+│   ├── analytics_service.py        # 📊 KPI metrics & analytics pipeline
+│   ├── aws_service.py              # ☁️ Log audit & transcripts to AWS S3
+│   │
+│   ├── multilingual.py             # 🌍 EN/AR auto-detection & translation
+│   ├── enhanced_prompts.py         # 🪄 Optimized prompt engineering
+│   ├── lead_qualifier.py           # ✅ Lead scoring & qualification
+│   │
+│   ├── dubai_knowledge.py          # 🏙️ Communities & property DB
+│   ├── property_intelligence.py    # 🏡 Property extraction & recommendations
+│   │
+│   ├── cost_tracker.py             # 💰 Track GPT x Gallabox cost usage
+│   ├── hotfix_intent_service.py    # 🩹 Temporary fallback (remove later)
+│
+├── models/                         # 🧱 Pydantic Schemas (data contracts)
+│   └── schemas.py
+│
+├── routes/                         # 🌐 API endpoints for bots
+│   └── webhook.py                  # 🔔 Gallabox/Twilio webhook router
+│
+└── utils/                          # 🛠️ Reusable helpers/shared utilities
+    └── helpers.py
+        
